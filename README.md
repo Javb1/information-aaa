@@ -6,3 +6,5 @@ docker安装
 docker build -t information .
 
 docker run -d -p 18081:8080 --name information information
+
+访问 http://xxx.xxx.xxx.xxx:18081/
